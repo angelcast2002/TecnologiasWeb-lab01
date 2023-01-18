@@ -53,3 +53,9 @@ Los resultados fueron:
 <p align="center"> <img src="https://github.com/angelcast2002/TecnologiasWeb-lab01/blob/main/appletest.jpg" width = "500"> </p>
 
 
+### Codigo Morse
+
+Para la frase ye shall be as gods.
+El código generado es:
+- -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
