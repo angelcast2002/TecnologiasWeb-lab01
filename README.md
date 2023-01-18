@@ -1,11 +1,40 @@
-# 4Dogs
-<p align="center"> <img src="https://github.com/angelcast2002/APP-Proyecto1-PlataformasMoviles/blob/main/APPLogo.png" width = "500"> </p>
+# LAB 1 - Sistemas y Tecnologías Web
+<p align="center"> <img src="https://i0.wp.com/imag.malavida.com/articulos/la-fase-lunar-en-ascii-segun-telehack.jpg" width = "500"> </p>
 
-## FEATURES
+## Telehack con telnet
 
-### Funcionalidades a implementar:
+### Zork
+Para poder saber que hay al subir las escaleras, primero es necesario entrar a la casa, esto lo podemos lograr forzando una ventana que la encontramos siguiendo las siguiente instrucciones:
 
-- Creación de nuevos recordatorios, que podrán ser o no, repetitivos.
-- Visualización de los recordatorios próximos según la fecha.
-- Visualización tipo calenderio de los recordatorios, así como la posbilidad de interactuar con dicho calendario, mostrando los recordatorios de la fecha en cuestión.
-- Sistema de consejos en base a la raza del perro, utilizando las razar soportadas por la API mencionada en el readme.
+- go south
+- go east
+- open window
+- enter house
+
+Ahora que ya estamos dentro de la casa es posible subir, sin embargo nos dira que esta muy obscuro para ver, por lo que necesitamos una fuente de luz, una lámpara y esta la conseguiremos siguiendo las siguiente instrucciones cuando estemos en la cocina:
+
+- go west
+- take lamp
+- go east
+
+Habiendo regresado a la cocina solo queda encender la lámpara y subir:
+
+- turn on lamp
+- go up
+
+Con esto podemos ver lo que hay al subir las gradas, y es...
+
+El **ático** y en el encontramos lo siguiente: 
+
+<p align="center"> <img src="https://images.freeimages.com/images/large-previews/583/dark-attic-1160872.jpg" width = "500"> </p>
+
+- Attic: There is a square brick here which feels like clay. A large coil of rope is lying in the corner. On a table is a nasty-looking knife.
+- Ático: Este es el ático. La única salida son las escaleras que bajan. Aquí hay un ladrillo cuadrado que se siente como arcilla. Un gran rollo de cuerda está tirado en la esquina. En una mesa hay un cuchillo de aspecto desagradable.
+
+***
+
+### Nombre en ASCII:
+
+Mi nombre es angel castellanos y en ASCII se escribe:
+
+- 
