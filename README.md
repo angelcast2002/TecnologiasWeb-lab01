@@ -41,11 +41,15 @@ El mensaje cifrado da como resultado la frase:
 
 <p align="center"> <img src="https://github.com/angelcast2002/TecnologiasWeb-lab01/blob/main/bf.jpg" width = "500"> </p>
 
+### Program 34
+
+Los resultados fueron:
+
+- Piensas las cosas inteligentemente.
+- Aprovechas cualquier oportunidad.
+- Eres una persona amorosa.
+- Eres justo.
+
+<p align="center"> <img src="https://github.com/angelcast2002/TecnologiasWeb-lab01/blob/main/appletest.jpg" width = "500"> </p>
 
 
-
-### Nombre en ASCII:
-
-Mi nombre es angel castellanos y en ASCII se escribe:
-
-- 
