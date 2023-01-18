@@ -41,6 +41,8 @@ El mensaje cifrado da como resultado la frase:
 
 <p align="center"> <img src="https://github.com/angelcast2002/TecnologiasWeb-lab01/blob/main/bf.jpg" width = "500"> </p>
 
+***
+
 ### Program 34
 
 Los resultados fueron:
@@ -52,6 +54,7 @@ Los resultados fueron:
 
 <p align="center"> <img src="https://github.com/angelcast2002/TecnologiasWeb-lab01/blob/main/appletest.jpg" width = "500"> </p>
 
+***
 
 ### Codigo Morse
 
